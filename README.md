@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Sanghai</h1>
 <h3 align="center">A technology enthusiast, Developer, Programmer</h3>
 
-- 🔭 I’m currently working on [crwn-clothing](https://github.com/tejas23092001/crwn-clothing)
+- 🔭 I’m currently working on [E-Commerce application](https://github.com/tejas23092001/e-commerce-web-app)
 
 - 🌱 I’m currently learning **ReactJS, Redux and GraphQL**
 
