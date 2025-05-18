@@ -87,7 +87,7 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 
 - 📧 **Email:** tejas230309@gmail.com  
 - 💼 **LinkedIn:** [tejas-sanghai](https://www.linkedin.com/in/tejas-sanghai/)  
-- 🧠 **DSA Profiles:** [LeetCode](https://leetcode.com/u/C_R_U_S_H_E_R/) | [GFG](https://www.geeksforgeeks.org/user/tsanghai2017/)
+- 🧠 **DSA Profiles:** [LeetCode](https://leetcode.com/u/SAMCRO_2309/) | [GFG](https://www.geeksforgeeks.org/user/tsanghai2017/)
 
 ---
 
